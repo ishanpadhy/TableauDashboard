@@ -11,6 +11,6 @@ Attached are the csv files
 
 Created a tableau dashboard which has the following relationships between the tables
 - the yr column in cost_table is primary key
-- the yr table in bike_share_yr_0 and bike_share_yr_1 are foreign keys to the cost_table
+- the yr column in bike_share_yr_0 and bike_share_yr_1 tables are foreign keys to the cost_table
 - in the dashboard, both bike_share_yr_0 and bike_share_yr_1 are combined together with union
 
